@@ -1,0 +1,1 @@
+seqToProfile -b ../align_wgsim/wgsim_chr22q11-21_recal.bam -t ../Twist_Exome_Target2_chr22q11-21_GRCh38_500pad.bed -v ../align_wgsim/wgsim_chr22q11-21.vcf -r ../chr22_q11-21_GRCh38.fasta -k 4 -B 100 >chr22_q11-21_GRCh38_wgsim.profile
