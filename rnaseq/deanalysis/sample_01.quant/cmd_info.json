@@ -1,0 +1,11 @@
+{
+    "salmon_version": "1.10.3",
+    "threads": "2",
+    "index": "/Users/lollo/Desktop/COMPGEN_lab/hackaton/salmon_index/chr22_transcripts_index",
+    "libType": "IU",
+    "mates1": "/Users/lollo/Desktop/COMPGEN_lab/hackaton/polyester/sample_01_1.fasta.gz",
+    "mates2": "/Users/lollo/Desktop/COMPGEN_lab/hackaton/polyester/sample_01_2.fasta.gz",
+    "validateMappings": [],
+    "output": "/Users/lollo/Desktop/COMPGEN_lab/hackaton/polyester/sample_01.quant",
+    "auxDir": "aux_info"
+}
