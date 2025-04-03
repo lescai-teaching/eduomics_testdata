@@ -1,0 +1,2 @@
+s	disease	chr22	18078561	G	A	het
+s	disease	chr22	18079908	G	A	homo
